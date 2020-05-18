@@ -1,4 +1,4 @@
-# 1701QCA Final project journal: *Insert your name here*
+# 1701QCA Final project journal: *Jasmine Riri-Duscher*
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
