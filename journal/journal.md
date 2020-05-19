@@ -277,7 +277,18 @@ The majority of the project was complete! It wass time for finishing touches.
 
 ![Image](30.jpg)
 
+I drew this design onto the bottom of the box and decided to put it on the sides as well to give a more interesting look to the cube.
 
+![Image](31.jpg)
+![Image](32.jpg)
+
+When I was finished and tested the product again, I realised only the blue and green colours were working. I wasn't sure where the issue was or when it occured but now it only showed blue and green light. The red had stopped working.
+As you can see below, there are two images. The first is of a side I can only presume to be red and the second is of a different colour, probably blue or purple. I was unsure how to fix this due to constraints in time and the fact that I had glued everything together and would have to take it apart to see what had happened.
+
+![Image](33.jpg)
+![Image](34.jpg)
+
+I never did fix this issue due to time and the fact that you can still clearly see a colour difference on each side of the cube, indicating that the code worked and the object was functional.
 
 ## Design process discussion ##
 
