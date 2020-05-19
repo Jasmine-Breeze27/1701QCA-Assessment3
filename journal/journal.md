@@ -164,7 +164,10 @@ After those values and logic blocks were added, it was just a matter of adding t
 
 ![Image](tech3.PNG)
 
-After further research, 
+After further research, I realised that using the 'digital write pin' block was incorrect as that can only hold a value of 0 or 1. I swapped these out for 'analog write pin' blocks and tested the colours then. When I saw this working, I just adjusted the colours to be more vibrant. Also, the accelerometer variables that I added for two of the sides was not working. It was from an outer source that the solution was found by adding the 'roll' blocks to incorporate degrees of tilt for more accurate accelerometer use.
+
+![Image](Codetop.jpg)
+![Image](Codebot.jpg)
 
 ### Fabrication ###
 
@@ -292,7 +295,15 @@ As you can see below, there are two images. The first is of a side I can only pr
 
 I never did fix this issue due to time and the fact that you can still clearly see a colour difference on each side of the cube, indicating that the code worked and the object was functional.
 
+## Final code ##
+
+<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+
+![Image](Codetop.jpg)
+![Image](Codebot.jpg)
+
 ## Design process discussion ##
+<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
 In the beginning, I wanted to create a sort of launch pad and experiment with musical interactions. This idea was removed quite quickly since 'the first idea is always the worst one' and it would have been too difficult to create within the time frame. I then moved on to other ways people interacted with objects and how that might affect a person's emotional state. After viewing the Heartbeat art installation by Charles Petillion, I began to create ideas surrounding light and perspective. This then altered into my final design intent: A tangible object that expresses mood through orientation.
 
@@ -302,19 +313,14 @@ I initially did not like the cube shape idea as I thought it would be too simple
 
 As you can see in my thought process above, I used the Double Diamond methodology without even realising. The first diamond has been looped constantly to produce better and better ideas. It began with ideas of what to create and narrowed that down into a specific object that I can then begin to create. Then the second diamond was repeated as I designed the square, fixed it was a grid, changed the type of adhesive, adjusted colours for the LED, re-cut shapes and wire to better suit the functionality. There were continous changes made during the development phase that led to a greater solution in the end and it was all due to the repetative process of rethinking and redesigning with a user's interaction in mind.
 
-## Final code ##
-
-<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
-
-## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-
 
 ## Reflection ##
 
 <!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
 
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+
+I found the information in the eighth research link to make up a big part of my understanding in how to code an RGB LED. I also found the first research link useful in understanding the basics of an LED and how it works. 
 
 What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
