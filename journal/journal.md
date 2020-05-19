@@ -164,6 +164,8 @@ After those values and logic blocks were added, it was just a matter of adding t
 
 ![Image](tech3.PNG)
 
+After further research, 
+
 ### Fabrication ###
 
 The first development that happened was a 3D model of the hexagonal shape. The fabricaiton of this object was purely to see how each it was to hold and move, as well as space for electricals, etc. I started by searching 'hexagon shape' into Google Images and tracing it onto a piece of paper. I then used this as a guide in order to cut out twelve hexagons.
@@ -285,16 +287,20 @@ I drew this design onto the bottom of the box and decided to put it on the sides
 When I was finished and tested the product again, I realised only the blue and green colours were working. I wasn't sure where the issue was or when it occured but now it only showed blue and green light. The red had stopped working.
 As you can see below, there are two images. The first is of a side I can only presume to be red and the second is of a different colour, probably blue or purple. I was unsure how to fix this due to constraints in time and the fact that I had glued everything together and would have to take it apart to see what had happened.
 
-![Image](33.jpg)
 ![Image](34.jpg)
+![Image](33.jpg)
 
 I never did fix this issue due to time and the fact that you can still clearly see a colour difference on each side of the cube, indicating that the code worked and the object was functional.
 
 ## Design process discussion ##
 
-In the beginning, I wanted to create a sort of launch pad and experiment with musical interactions. This idea was removed quite quickly since 'the first idea is always the worst one' and it would have been too difficult to create within the time frame. I then moved on to other ways people interacted with objects and how that might affect a person's emotional state. After viewing the Heartbeat art installation by Charles Petillion, I began to create ideas surrounding light and perspective. This then altered into my current design intent: A tangible object that expresses mood through orientation.
+In the beginning, I wanted to create a sort of launch pad and experiment with musical interactions. This idea was removed quite quickly since 'the first idea is always the worst one' and it would have been too difficult to create within the time frame. I then moved on to other ways people interacted with objects and how that might affect a person's emotional state. After viewing the Heartbeat art installation by Charles Petillion, I began to create ideas surrounding light and perspective. This then altered into my final design intent: A tangible object that expresses mood through orientation.
 
-All of these ideas were synthesized throught the Double Diamond design methodology, even if I wasn't aware of the fact. It has been a constant loop of the first diamond ot produce the ideas and a loop for after the second diamond with my development of my design intent. It began with ideas of what to create and now it is refining those ideas in to realistic solutions. It has now become a loopof the second diamond as there have been tweaks in the code, changes to the materials and aesthetics, as well as different shapes and development methods. I have gotten this current point by discovering and defining repetitvely in order to move on to the develop and delivering phases, which have evended up being just as repetative.
+After this, I began to experiment with different shapes and objects that could move to trigger the LED's colour. I started with a pentagonal dodecahedron as I thought the amount of colours would provide a nice range to users. After further thought, it was clear that programing the accelerometer would be difficult and the coding would be more difficult overall. I also believed the holding the weight of the microbit, battery pack and LED would cause the shape to wobble, lean or roll to the heaviest side. I needed a shape that would be simpler and not be affected by a weightier side so, therefore, I used a cube shape instead.
+
+I initially did not like the cube shape idea as I thought it would be too simple and very limited in its colour range but after beginning to experiment with it, I enjoyed the idea much more. I would only have to use two axis on the accelerometer and the object would be stable; my solution was found.
+
+As you can see in my thought process above, I used the Double Diamond methodology without even realising. The first diamond has been looped constantly to produce better and better ideas. It began with ideas of what to create and narrowed that down into a specific object that I can then begin to create. Then the second diamond was repeated as I designed the square, fixed it was a grid, changed the type of adhesive, adjusted colours for the LED, re-cut shapes and wire to better suit the functionality. There were continous changes made during the development phase that led to a greater solution in the end and it was all due to the repetative process of rethinking and redesigning with a user's interaction in mind.
 
 ## Final code ##
 
