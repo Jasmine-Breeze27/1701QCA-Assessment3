@@ -193,6 +193,92 @@ It was then decided to create a square shape with excess on two sides in order t
 
 ![Image](wire3.jpg)
 
+After four sides were complete, there was the trouble of trying to get them to connect together. My first idea was to using a coiling method and wrap aluminium wire around the sides to attach them. This became difficult and time-consuming and I eventually gave up on the idea.
+
+![Image](1.jpg)
+
+I then thought to using the clamped ends to overlap onto the next square. This method worked well and I was able to attach all four sides to one another.
+
+![Image](2.jpg)
+
+I created a grid on the bottom for support. This was done by weaving four wire pieces through each other to create a grid. I made sure to carefully clamp these wire pieces down to create an even square shape.
+
+![Image](3.jpg)
+![Image](4.jpg)
+
+I then cut out cardboard pieces for the bottom of the cube. This will act as the little compartment where the lightbulb will protrude from. This is also where the microbit, battery pack and RGB LED will be stored.
+
+![Image](5.jpg)
+![Image](6.jpg)
+
+Moving onto the circuitry, I again used a hook method to attach the resistors, wire and LED together and secured it with electrical tape. The electrical tape was not the best at holding everything in place but was used nonetheless.
+
+![Image](7.jpg)
+![Image](8.jpg)
+
+To attach the wire to the microbit, there was a lengthier process. The wire was stripped and seperated into halves. These were then looped through the microbit, twisted around and secured with tape.
+
+![Image](9.jpg)
+![Image](10.jpg)
+![Image](11.jpg)
+
+After testing the circuit briefly, I recognised that the LED was too dim and would be difficult to see on a camera. The issue to this problem was that I had used the highest resistors I owned rather than using the lowest one to allow a greater current. The resistors were switched. The following image is of only the red RGB LED leg being replaced.
+
+![Image](21.jpg)
+
+After this, the circuit was complete!
+
+![Image](12.jpg)
+![Image](13.jpg)
+
+Jumping back to the cube, I then attached the base cardboard piece using epoxy. After waiting for that to harden, I also glued the sides to each other. After doing so, I knew using epoxy was a big mistake as it was messy, took too long to dry and was ridiculously difficult to scrub off my hands.
+
+![Image](14.jpg)
+
+I then opted for hot glue to start working on the top of the cube. My goal was to create an 'X' shape to hold the top in place but the wire broke apart when I tried to bend it around the cube. 
+
+![Image](15.jpg)
+![Image](17.jpg)
+
+I then used hot glue to secure the cardboard sides to the cube, making sure to focus on cardboard-to-cardboard areas rather than cardboard-to-wire as the hold was better.
+
+![Image](16.jpg)
+
+I then returned to working on the top. I used two single strands of wire and bent it around the cube to form an 'X' shape.
+
+![Image](18.jpg)
+![Image](19.jpg)
+
+It was then time to weave string through the top of the cube. I remembered an activity from primary school using paddle-pops and wool and recreated it here. I will admit this took much longer than I would have liked.
+
+![Image](20.jpg)
+![Image](22.jpg)
+
+Just as the bulb was being fitted into the cube, I dropped it. I have a whole room of carpet flooring but only managed to drop it on the very edge of my bathroom floor and it smashed. I cleaned it up and hunted for more bulbs around the house.
+
+![Image](23.jpg)
+
+My grandfather and I took an LED lightbulb and heatlight outside to saw the bottoms open and see if they were usable. The LED lightbulb was not usable as the inside was completely blocked off by a thick metalic material. The heat light was much better but some of the glass had chipped off, leaving the edges sharp and dangerous.
+
+![Image](24.jpg)
+
+I used some tape for shaping and hot glue all around the edges which turned out really well. I then used more glue and attached a cardboard piece to the bottom which the LED could poke through. A top to the cardboard section was also cut out and the lightbulb fitted through it and secured.
+
+![Image](25.jpg)
+![Image](26.jpg)
+![Image](27.jpg)
+
+The circuit pieces were then taped with duck tape to the bottom of the cube and the top cardboard piece was secured with hot glue. The inside was layed out so that the battery pack and microbit could be easily connected.
+
+![Image](28.jpg)
+![Image](29.jpg)
+
+The majority of the project was complete! It wass time for finishing touches.
+
+![Image](30.jpg)
+
+
+
 ## Design process discussion ##
 
 In the beginning, I wanted to create a sort of launch pad and experiment with musical interactions. This idea was removed quite quickly since 'the first idea is always the worst one' and it would have been too difficult to create within the time frame. I then moved on to other ways people interacted with objects and how that might affect a person's emotional state. After viewing the Heartbeat art installation by Charles Petillion, I began to create ideas surrounding light and perspective. This then altered into my current design intent: A tangible object that expresses mood through orientation.
