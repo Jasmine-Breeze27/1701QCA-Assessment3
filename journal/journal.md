@@ -278,7 +278,7 @@ The circuit pieces were then taped with duck tape to the bottom of the cube and 
 ![Image](28.jpg)
 ![Image](29.jpg)
 
-The majority of the project was complete! It wass time for finishing touches.
+The majority of the project was complete! It was time for finishing touches.
 
 ![Image](30.jpg)
 
